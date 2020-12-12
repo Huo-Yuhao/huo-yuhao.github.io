@@ -54,6 +54,35 @@ a:hover {color:#368dc9;
 p {
     color: #fff;
 }
+/* тест изменений для комментариев вк */
+.wcomments_form, .wcomments_post_field {
+    background-color: #404040;
+    border-radius: 20px;
+    color: #fff;   
+}
+.wcomments_form, .wcomments_export_checkbox {
+    color: #fff;
+}
+.flat_button {
+    border-radius: 10px;
+    background-color: #404040 !important;
+    
+}
+.wcomments_head{
+    background: #2d2d2d!important;
+}
+.wcomments_form {
+    border: none;
+    background: #2d2d2d!important;
+}
+
+#vkwidget1 {
+    border-radius: 15px;
+}
+
+
+
+/* тест изменений для комментариев вк */
 
 
 

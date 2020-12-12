@@ -64,6 +64,17 @@ a:hover {color:#368dc9;
 p {
     color: #fff;
 }
+                                   /* АНИМАЦИЯ */
+.img-block-1  {
+transition: transform 0.3s;
+}
+
+.img-block-1:hover {
+    transform: translateY(-5px);
+}
+
+
+                                   /* АНИМАЦИЯ */
 .container-footer {
     max-width: 1100px;
     margin: auto;

@@ -353,18 +353,18 @@ body {
     justify-content: space-around;
     
 } 
-    .row-3-line {
-        position: relative;
-        top: 20px;
+.row-3-line {
+       position: relative;
+       top: 20px;
     }
-    .row-3-line:after {
-        content: "";
-        width: 90%;
-        opacity: 40%;
-        height: 2px;
-        background: #5a5a5a;
-        border-radius: 70%;
-    }
+.row-3-line:after {
+    content: "";
+    width: 80%;
+    opacity: 40%;
+    height: 2px;
+    background: #5a5a5a;
+    border-radius: 80%;
+}
 .a-block {
     margin-top: 10px;
     margin-bottom: 10px;

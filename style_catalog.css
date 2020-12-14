@@ -229,8 +229,8 @@ ul {
 
 
 @media only screen and (max-width: 900px) {
-    .row-33 .row-3 {
-        width: 3250px
+ .row-33 .row-3 {
+    width: 3250px
     }
 }
 
@@ -281,11 +281,11 @@ nav ul {
 }
 .menu-updates {
     color: #fff
-    }
+}
 .menu-catalog {
     color: #368dc9 !important;
     cursor: default;
-    }
+}
     nav ul li {
     display: block;
     margin: 10px 0px 0px 10px;
@@ -317,9 +317,9 @@ body {
     margin-left: 14px;
     
 }
-    .a-block-red {
-        width: 20%;
-    }
+.a-block-red {
+    width: 20%;
+}
 .logo {
     margin-left: 20px
 }
@@ -398,9 +398,4 @@ nav ul li a {
     position: absolute;
     right: 30px
     }
-}
-.img-gallery img {
-    max-width: 410px ;
-    background: url(images/linya1.png);
-    transform: translate(0px, 10px);
 }

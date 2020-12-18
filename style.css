@@ -241,7 +241,7 @@ ul {
 /* Мобильные устройства ДО 800px */   /* Мобильные устройства ДО 800px */
 
 
-@media only screen and (max-width: 800px){
+@media only screen and (max-width: 1200px){
 a { font-size: 18px;
         
 }

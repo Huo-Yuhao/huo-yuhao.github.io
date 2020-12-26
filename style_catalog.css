@@ -18,7 +18,7 @@ body {
 }
 @font-face {
     font-family: "V_EUROCOMIC_V1";
-    src: url("/fonts/Aire Exterior.ttf") format("truetype");
+    src: url("/fonts/V_EUROCOMIC_V1.ttf") format("truetype");
     font-style: normal;
     font-weight: normal;
 }

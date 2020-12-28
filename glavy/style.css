@@ -625,13 +625,6 @@ nav ul li {
 .a-block-red .red-aa:first-child {
     margin: 0px;
 }
-#MenuItems li a{
-    text-align: center;
-    display: flex;
-    position: absolute;
-    top: 50px;
-    border-bottom: solid 0.2px;
-}
 body {
     background-color: #151515;
     font-size: 20px;
